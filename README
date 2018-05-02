@@ -1,0 +1,10 @@
+This is a coursework project based on the a undergraduate class:complier.
+
+This project implements a simple compiler, obeying the rule of C0(a simple version C language)
+
+The compiler can handle all the grammer errors, pre-complie errors and part of run-time error.
+
+It will generate a four-element tuple as an intermediate status. After some optimazation, it will generate ASM file, which can be verifyied on a ASM simulation software.
+
+Created by Jiazheng LIU on 4/18/2016
+Copyright © 2016 Jiazheng LIU. All rights reserved.
